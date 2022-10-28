@@ -1,7 +1,7 @@
 # About Me
-## By *Eileen*
+## By Eileen
 
-Hi! My name is *Eileen*.
+Hi! My name is **Eileen**.
 
 I'm from **China**, and this is my second year in Canada. 
 
@@ -30,12 +30,13 @@ I also like to listen to music.
 * 飞奔向你  by  *于贞*
 * Close to me  by  *Ellie Goulding*/ *Diplo*
 
+I like to watch Chinese Tv Shows in my free time.
 
-I like to watch Chinese Tv Shows on my free time.
+### Here are two of my favorite Tv Shows.
 
-###Here are some of my favorite Shows.
+* 快乐大本营 (Happy Camp)
+* 明星大侦探 (Who's the Murderer)
 
-* 半熟恋人
-* 快乐大本营
-* 明星大侦探
+![300px-New_Happy_Camp_Logo](https://user-images.githubusercontent.com/116816519/198698866-9be2d47a-05b3-40da-8215-a400b03e104d.jpeg)
 
+![Who's_the_Murderer_S6_poster](https://user-images.githubusercontent.com/116816519/198698965-c6b8b7fe-2bb3-4d5d-96f9-01d46296e4e4.jpeg)
