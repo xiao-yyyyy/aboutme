@@ -24,8 +24,10 @@ I also like to listen to music.
 
 ### Here is some music that I recommend.
 
-* Truthfully by A1 TRIP/ Dobi
-* *浪漫主义2.0* by 姜云升
-* 2019 by 某幻君
-* *飞奔向你* by 于贞
-* Close to me by Ellie Goulding/ Diplo
+* Truthfully  by  *A1 TRIP*/ *Dobi*
+* 浪漫主义2.0  by  *姜云升*
+* 2019  by  *某幻君*
+* 飞奔向你  by  *于贞*
+* Close to me  by  *Ellie Goulding*/ *Diplo*
+
+
