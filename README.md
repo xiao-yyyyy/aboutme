@@ -31,3 +31,11 @@ I also like to listen to music.
 * Close to me  by  *Ellie Goulding*/ *Diplo*
 
 
+I like to watch Chinese Tv Shows on my free time.
+
+###Here are some of my favorite Shows.
+
+* 半熟恋人
+* 快乐大本营
+* 明星大侦探
+
